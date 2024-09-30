@@ -120,9 +120,9 @@ saveRDS(canada_lvl6, file = "shiny/canada_lvl6.rds")
 # 6. Deploy the shiny app ----
 
 # link account
-rsconnect::setAccountInfo(name='q0yfxi-elise0g',
-                          token='7F91DACEA09C2DC69A02321FEF51A735',
-                          secret='5d8WKIWcHX481+uzlimrobqrGJrFJ3gz1BwrdRJ2')
+rsconnect::setAccountInfo(name='YOUR-NAME-HERE',
+                          token='YOUR-TOKEN-HERE',
+                          secret='YOUR-SECRET-HERE')
 
 # deploy app (kept in shiny folder of repo)
 rsconnect::deployApp('shiny/')
