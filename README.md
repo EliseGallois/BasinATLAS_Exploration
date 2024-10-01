@@ -2,7 +2,7 @@
 
 Name and contact: Elise Gallois, elise.gallois94\@gmail.com
 
-Date and time completed: Monday 30th September 2-4.30 pm.
+Date and time completed: Monday 30th September 2-4pm.
 
 ## Workflow
 
